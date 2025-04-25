@@ -13,13 +13,15 @@ body {
     font-size: 45px;
 
 }
-ul {
+.linklist {
     border: 2px solid black;
     text-align: center;
     background-color: whitesmoke;
-    display: inline-block;
+    display: block;
     width: 75%;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+    box-sizing: border-box;;
+
 }
