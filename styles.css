@@ -28,6 +28,9 @@ body {
     margin: 10px;
 }
 .recipetitle {
- 
-
+    margin: 10px auto;
+}
+img {
+    margin-right: 30%;
+    display: inline-block;
 }
