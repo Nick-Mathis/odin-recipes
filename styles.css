@@ -1,10 +1,9 @@
 body {
-    font-family: Arial, Helvetica, sans-serif
-    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 .hometitle {
-    text-align :center;
     margin: 0 auto;
     background-color: dimgray;
     color: white;
@@ -15,7 +14,6 @@ body {
 }
 .linklist {
     border: 2px solid black;
-    text-align: center;
     background-color: whitesmoke;
     display: block;
     width: 75%;
@@ -28,4 +26,8 @@ body {
 .pagelink {
     display: inline-block;
     margin: 10px;
+}
+.recipetitle {
+ 
+
 }
